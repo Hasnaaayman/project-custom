@@ -1,4 +1,4 @@
-# Odoo Project Tracker
+# project custom 
 
 Custom Odoo module to track project progress with clients.  
 Includes:
